@@ -142,6 +142,6 @@ module.exports = {
         "lp_rules_interest2":'2、选择合适的理财产品，将CAKE质押进去。',
         "lp_rules_interest3":'3、产出CAKE的收益可以再次购买CBN然后进入绿色元宇宙DeFi分红。',
         "lp_DeFi_totalBuybackUsdt":"待回购USDT",
-        "lp_DeFi_totalDestroCbn":"待销毁CBN",
+        "lp_DeFi_totalDestroCbn":"已销毁CBN",
     },
 };
